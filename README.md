@@ -11,7 +11,7 @@ And the second d3.js app - collision detection: [D3 Test 2](d3test2.htm)
 And the third d3.js app - force directed graph: [D3 Test 3](d3test3.htm)
 
 ## Yours Truly
-Anyone remember the old BBS days?  Those glorious ANSIs?  Well here's my portrait in oldschool ANSI art. I'm not about to upload an actual image because 1) BIG ZUCK is watching and 2) I don't want to scare small children.
+Anyone remember the old BBS days?  Those glorious ANSIs?  Well here's my portrait in oldschool ANSI art.
 
 Want yours?  Go to: [manytools.org](https://manytools.org/hacker-tools/convert-image-to-ansi-art/go)
 
