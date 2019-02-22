@@ -12,4 +12,4 @@ And the third d3.js app - force directed graph: [D3 Test 3](d3test3.htm)
 
 ---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
