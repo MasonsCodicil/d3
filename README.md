@@ -2,11 +2,13 @@
 
 Just moved into this place so there isn't much here yet.
 
-I've gotten Visual Studio Code and git installed in my virtual and talking to my GitHub repository so I've uploaded a couple of pre-built d3.js applications just to test that everything is working like it should.
+I've gotten Visual Studio Code and git installed in my virtual and talking to my GitHub repository so I've uploaded a few of pre-built d3.js applications just to test that everything is working like it should.
 
-Here's the first sample app: [D3 Test 1](d3test1.htm)
+Here's the first sample app - static graph: [D3 Test 1](d3test1.htm)
 
-And the second d3.js app: [D3 Test 2](d3test2.htm)
+And the second d3.js app - collision detection: [D3 Test 2](d3test2.htm)
+
+And the third d3.js app - force directed graph: [D3 Test 3](d3test3.htm)
 
 ## Yours Truly
 Anyone remember the old BBS days?  Those glorious ANSIs?  Well here's my portrait in oldschool ANSI art. I'm not about to upload an actual image because 1) BIG ZUCK is watching and 2) I don't want to scare small children.
