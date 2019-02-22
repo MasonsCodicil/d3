@@ -2,7 +2,7 @@
 
 Just moved into this place so there isn't much here yet.
 
-I've gotten my Visual Studio Code and git installed and talking to my GitHub repository like a good program should and I've uploaded a couple of pre-built d3.js applications just to test that everything is working.
+I've gotten Visual Studio Code and git installed in my virtual and talking to my GitHub repository so I've uploaded a couple of pre-built d3.js applications just to test that everything is working like it should.
 
 Here's the first sample app: [D3 Test 1](d3test1.htm)
 
